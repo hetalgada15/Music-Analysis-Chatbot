@@ -48,8 +48,8 @@ The main goal of this project was to build a chatbot application leveraging Larg
 
 
 2. **Install Dependencies:**
-
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. **Set Up OpenAI API Key:**
 Create a .env file in the project root directory with your OpenAI API key:
@@ -61,13 +61,13 @@ streamlit run app.py
 5. **Access the Application:**
 Open your web browser and navigate to http://localhost:8501.
 
-**Testing**
+##Testing
 
 1. Input natural language queries related to music into the text area.
 2. Click the "Chat about Music" button to generate responses based on the queries.
 3. Explore conversation history to review past interactions.
 
-**Contributors**
+##Contributors
 Hetal Gada: Project developer and main contributor.
 
 
