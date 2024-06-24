@@ -66,18 +66,18 @@ OPENAI_API_KEY=your_api_key_here
 
 Open your web browser and navigate to http://localhost:8501.
 
-##Testing
+## Testing
 
 1. Input natural language queries related to music into the text area.
 2. Click the "Chat about Music" button to generate responses based on the queries.
 3. Explore conversation history to review past interactions.
 
    
-##Additional Resources
+## Additional Resources
 OpenAI API Documentation: Learn more about OpenAI's GPT-3.5 Turbo model.
 
-##Streamlit Documentation: 
+## Streamlit Documentation: 
 Explore Streamlit for building interactive web applications.
 
-##Contributors
+## Contributors
 Hetal Gada: Project developer and main contributor.
