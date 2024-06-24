@@ -1,7 +1,5 @@
 # Music-Analysis-Chatbot
 
-# ChatCSV - Streamlit App
-
 ## Overview
 
 Welcome to ChatCSV, a Streamlit application that integrates OpenAI's GPT-3.5 Turbo model to create a chatbot experience focused on music insights. This project combines the power of natural language processing with a user-friendly interface to explore music-related queries.
