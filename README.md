@@ -41,7 +41,7 @@ The main goal of this project was to build a chatbot application leveraging Larg
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/ChatCSV-Streamlit-App.git
+   https://github.com/hetalgada15/Music-Analysis-Chatbot.git
    cd ChatCSV-Streamlit-App
 
 
